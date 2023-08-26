@@ -4,8 +4,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FranciscoJosue.FranciscoJosue&" />
 </div>
 
-<h2 align="left">Jogo da Cobrinha</h2>
-
 <h2 align="left">Conecte-se comigo</h2>
 
 <br clear="both">
