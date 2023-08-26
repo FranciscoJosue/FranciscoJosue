@@ -4,6 +4,13 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FranciscoJosue.FranciscoJosue&" />
 </div>
 
+<h2 align="left">Jogo da Cobrinha</h2>
+
+<div align="center">
+  <a href="snake.html">
+    <img src="https://raw.githubusercontent.com/FranciscoJosue/FranciscoJosue/main/assets/snake-preview.png" alt="Snake Game" />
+  </a>
+</div>
 
 <h2 align="left">Conecte-se comigo</h2>
 
