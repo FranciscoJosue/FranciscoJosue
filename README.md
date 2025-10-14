@@ -22,7 +22,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="azure logo" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="azure logo" />
 </div>
 
 <h3 align="left">GitHub stats</h3>
